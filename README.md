@@ -1,18 +1,6 @@
-# Create a corrected, full-length GitHub README (with proper contact details)
-# and package it together with the custom banner image into a downloadable zip.
-
-import os, zipfile, shutil, textwrap, json
-
-root = "/mnt/data/ramana_github_profile_readme"
-os.makedirs(root, exist_ok=True)
-
-banner_src = "/mnt/data/A_professional_digital_banner_features_Ramana_Redd.png"
-banner_dst = os.path.join(root, "A_professional_digital_banner_features_Ramana_Redd.png")
-shutil.copyfile(banner_src, banner_dst)
-
-readme = """<!-- Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="A_professional_digital_banner_features_Ramana_Redd.png" alt="Ramana Reddy Banner" width="100%">
+  <img src="banner.png" alt="Ramana Reddy Banner" width="100%">
 </p>
 
 <!-- Greeting -->
@@ -128,17 +116,4 @@ Credit risk modeling using transactional and behavioral data.
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
 </a>
 
----
-"""
 
-with open(os.path.join(root, "README.md"), "w", encoding="utf-8") as f:
-    f.write(readme)
-
-zip_path = "/mnt/data/ramana_github_profile_readme.zip"
-with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as z:
-    for base, _, files in os.walk(root):
-        for nm in files:
-            fp = os.path.join(base, nm)
-            z.write(fp, arcname=os.path.relpath(fp, root))
-
-zip_path
