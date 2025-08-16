@@ -4,7 +4,7 @@
 </p>
 
 <!-- Greeting -->
-<h1 align="center">Hi there, I'm Ramana 👋</h1>
+<h1 align="center"># Hi there, I'm <a href="https://ramanareddy-ai.github.io/Portfolio/" target="_blank">Ramana</a> 👋
 <h3 align="center">Data Scientist 🧠 | AI/ML Engineer 🤖 | Generative AI Specialist 💡</h3>
 
 <p align="center">
