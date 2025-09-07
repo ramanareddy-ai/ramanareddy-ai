@@ -138,23 +138,6 @@ Credit risk modeling using transactional and behavioral data.
 
 ---
 
-## 📊 GitHub Stats & Streak
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramanareddy-ai&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramanareddy-ai&theme=radical" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramanareddy-ai&layout=compact&theme=radical" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramanareddy-ai&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4"/>
-</p>
-
----
-
 ## 🤝 Connect with Me
 <a href="mailto:ramanadata568@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
