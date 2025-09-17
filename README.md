@@ -5,7 +5,7 @@
 
 <!-- Greeting -->
 <h1 align="center"># Hi there, I'm <a href="https://ramanareddy-ai.github.io/Portfolio/" target="_blank">Ramana</a> 👋
-<h3 align="center">Data Scientist 🧠 | AI/ML Engineer 🤖 | Generative AI Specialist 💡</h3>
+<h3 align="center">Data Engineer 🧠 | AI/ML Engineer 🤖 | Generative AI Specialist 💡</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
@@ -139,10 +139,10 @@ Credit risk modeling using transactional and behavioral data.
 ---
 
 ## 🤝 Connect with Me
-<a href="mailto:ramanadata568@gmail.com">
+<a href="mailto:ramanareddyk3731@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/ramanareddy444" target="_blank">
+<a href="https://www.linkedin.com/in/ramanareddy007" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/ramanareddy-ai" target="_blank">
