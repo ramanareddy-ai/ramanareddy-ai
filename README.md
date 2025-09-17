@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 About Me
-I’m <b>Venkata Ramana Reddy Karnati</b>, a passionate <b>Data Scientist</b> and <b>AI/ML Engineer</b> with expertise in building scalable machine learning systems, NLP pipelines, and Generative AI applications.
+I’m <b>Venkata Ramana Reddy Karnati</b>, a passionate <b>Data Engineer</b> and <b>AI/ML Engineer</b> with expertise in building scalable machine learning systems, NLP pipelines, and Generative AI applications.
 I love solving complex problems using <b>data-driven approaches</b> and turning research into production-ready solutions.
 
 - 🔭 <b>Current focus:</b> AI-powered healthcare analytics & RAG-based assistants for complex domains
