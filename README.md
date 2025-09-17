@@ -20,7 +20,7 @@ I love solving complex problems using <b>data-driven approaches</b> and turning 
 - 🔭 <b>Current focus:</b> AI-powered healthcare analytics & RAG-based assistants for complex domains
 - 🌱 <b>Learning:</b> Advanced LLM fine-tuning, vector databases, and robust MLOps
 - 💬 <b>Ask me about:</b> Python, Machine Learning, NLP, Generative AI, Data Engineering
-- 🌐 <b>Portfolio:</b> <a href="https://venkata-portfolio-chi.vercel.app" target="_blank">venkata-portfolio-chi.vercel.app</a>
+  
 
 ---
 
