@@ -5,7 +5,7 @@
 
 <!-- Greeting -->
 <h1 align="center"># Hi there, I'm <a href="https://ramanareddy-ai.github.io/Portfolio/" target="_blank">Ramana</a> 👋
-<h3 align="center">Data Engineer 🧠 | AI/ML Engineer 🤖 | Generative AI Specialist 💡</h3>
+<h3 align="center">AI/ML Engineer 🤖 | Generative AI Specialist 💡Sr.Data Engineer 🧠</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 About Me
-I’m <b>Ramana Reddy </b>, a passionate <b>Data Engineer</b> and <b>AI/ML Engineer</b> with expertise in building scalable machine learning systems, NLP pipelines, and Generative AI applications.
+I’m <b>Ramana Reddy </b>, a passionate <b>Data Scientist</b> and <b>AI/ML Engineer</b> with expertise in building scalable machine learning systems, NLP pipelines, and Generative AI applications.
 I love solving complex problems using <b>data-driven approaches</b> and turning research into production-ready solutions.
 
 - 🔭 <b>Current focus:</b> AI-powered healthcare analytics & RAG-based assistants for complex domains
